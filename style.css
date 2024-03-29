@@ -1,0 +1,95 @@
+ .mdiv {
+
+            align-items: center;
+            background-color: whitesmoke;
+            /* border: 5px solid black; */
+            display: flex;
+            width: 100%;
+            height: 100vh;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+            background-color: whitesmoke;
+        }
+
+        .form2 {
+
+            margin-left: 350px;
+        }
+
+        .form1 {
+            margin-right: 100px;
+            margin-left: 100px;
+
+        }
+
+        h1 {
+            color: blue;
+            margin-left: 39%;
+            font-size: 90px;
+            margin-top: -22%;
+        }
+
+        h3 {
+            margin-left: 40%;
+            font-size: 20px;
+            margin-top: -11%;
+            /* border: 5px solid aquamarine; */
+            width: 100%;
+        }
+
+        .new {
+            align-items: centers;
+            width: 150px;
+            background-color: rgba(4, 253, 4, 0.832);
+            color: white;
+            border-radius: 7px;
+            border: none;
+        }
+
+        .form2 {
+            box-shadow: 0px 0px 10px grey;
+            width: 500px;
+            height: 350px;
+            padding-top: 10px;
+            border-radius: 10px;
+
+            margin-right: 10%;
+            background-color: white;
+        }
+
+        .login {
+            padding: 5px;
+            margin-top: 5px;
+            align-items: center;
+            background-color: white;
+
+        }
+
+        .button {
+
+            width: 97%;
+            color: white;
+            background-color: blue;
+            border: none;
+            border-radius: 7px;
+        }
+
+        .div2 {
+            /* border: 5px solid black; */
+            margin-left: 4%;
+            box-shadow: 1px 1px 10px gray;
+            border-radius: 10px;
+        }
+
+        input {
+            width: 90%;
+            height: 39px;
+            margin-top: 8px;
+        }
+
+        #UN:focus {
+
+            border: none;
+            border: 3px solid rgb(0, 8, 255);
+        }
+
